@@ -1,0 +1,72 @@
+﻿<Window x:Class="Lab11WpfApp_hw2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab11WpfApp_hw2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="450" Background="Snow">
+    <Grid>
+        <Path Data="M239.05,453.6 L197.55,449.10001 161.55,451.10001 123.55,441.10001 131.55,405.10001 91.550003,389.10001 118.55,369.10001 79.550003,364.10001 49.550003,349.10001 56.550003,328.10001 88.550003,317.10001 117.55,286.10001 83.550003,273.10001 115.55,248.10001 138.55,220.10001 117.55,211.10001 131.55,191.10001 144.55,178.10001 119.55,166.10001 121.55,157.10001 152.55,137.10001 184.55,93.100006 204.55,57.100006 221.55,71.100006&#xD;&#xA;243.55,103.10001 270.55,136.10001 302.55002,156.10001 279.55002,176.10001 308.55002,192.10001 309.55002,204.10001 281.55002,215.10001 299.55002,235.10001 326.55002,256.10001 335.55002,266.10001 311.55002,280.10001 324.55002,298.10001 342.55002,314.10001 374.55002,329.10001 368.55002,343.10001 352.55002,357.10001 326.55002,359.10001 307.55002,358.10001 325.55002,378.10001 349.55002,393.10001 369.55002,400.10001 358.55002,412.10001 330.55002,416.10001&#xD;&#xA;301.55001,410.10001 312.55002,430.10001 314.55002,437.10001 262.55001,438.10001 z" Fill="#FF11942F" HorizontalAlignment="Left" Height="397.5" Margin="49.55,33.1,0,0" Stretch="Fill" Stroke="#FF062002" VerticalAlignment="Top" Width="326" StrokeThickness="5"/>
+        <Path Data="M197.05,475.6 L214.55,473.10001 234.55,477.10001 235.55,444.10001 207.55,439.10001 194.55,442.10001 z" Fill="#FF852E0B" HorizontalAlignment="Left" Height="39" Margin="192.05,418.85,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="42" StrokeThickness="5"/>
+        <Path Data="M392.05,524.6" Fill="#FF852E0B" HorizontalAlignment="Left" Height="5" Margin="390.05,522.6,0,0" Stretch="Fill" Stroke="Black" StrokeThickness="3" VerticalAlignment="Top" Width="5"/>
+        <Ellipse HorizontalAlignment="Left" Height="55.8" Margin="146.519,196,0,0" Stroke="#FF12A3EE" StrokeThickness="5" VerticalAlignment="Top" Width="59.131">
+            <Ellipse.Fill>
+                <RadialGradientBrush RadiusX="0.339" Center="0.387,0.421" GradientOrigin="0.387,0.421" RadiusY="0.374">
+                    <GradientStop Color="#FFEAEB0F"/>
+                    <GradientStop Color="#FF1939E5" Offset="0.892"/>
+                </RadialGradientBrush>
+            </Ellipse.Fill>
+        </Ellipse>
+        <Ellipse HorizontalAlignment="Left" Height="67" Margin="229.05,312,0,0" Stroke="#FF128BEE" StrokeThickness="5" VerticalAlignment="Top" Width="71">
+            <Ellipse.Fill>
+                <RadialGradientBrush RadiusX="0.339" Center="0.603,0.516" GradientOrigin="0.603,0.516" RadiusY="0.374">
+                    <GradientStop Color="#FFD7DF1C"/>
+                    <GradientStop Color="#FF1956E5" Offset="0.892"/>
+                </RadialGradientBrush>
+            </Ellipse.Fill>
+        </Ellipse>
+        <Ellipse HorizontalAlignment="Left" Height="51.533" Margin="218.65,155.6,0,0" Stroke="#FFEE1212" StrokeThickness="5" VerticalAlignment="Top" Width="54.61">
+            <Ellipse.Fill>
+                <RadialGradientBrush RadiusX="0.408" Center="0.598,0.614" GradientOrigin="0.598,0.614" RadiusY="0.344">
+                    <GradientStop Color="#FFF3F40E"/>
+                    <GradientStop Color="#FFE52F19" Offset="0.892"/>
+                </RadialGradientBrush>
+            </Ellipse.Fill>
+        </Ellipse>
+        <Ellipse HorizontalAlignment="Left" Height="50.895" Margin="173.183,85.333,0,0" Stroke="#FFEEB812" StrokeThickness="5" VerticalAlignment="Top" Width="53.933">
+            <Ellipse.Fill>
+                <RadialGradientBrush RadiusX="0.339" Center="0.464,0.337" GradientOrigin="0.464,0.337" RadiusY="0.374">
+                    <GradientStop Color="#FFDF461C"/>
+                    <GradientStop Color="#FFDDE519" Offset="0.892"/>
+                </RadialGradientBrush>
+            </Ellipse.Fill>
+        </Ellipse>
+        <Ellipse HorizontalAlignment="Left" Height="67" Margin="110.25,275.2,0,0" Stroke="#FFEE3212" StrokeThickness="5" VerticalAlignment="Top" Width="71">
+            <Ellipse.Fill>
+                <RadialGradientBrush RadiusX="0.339" Center="0.387,0.421" GradientOrigin="0.387,0.421" RadiusY="0.374">
+                    <GradientStop Color="#FFEEF710"/>
+                    <GradientStop Color="#FFE53E19" Offset="0.892"/>
+                </RadialGradientBrush>
+            </Ellipse.Fill>
+        </Ellipse>
+        <Ellipse HorizontalAlignment="Left" Height="50.895" Margin="158.25,347.2,0,0" Stroke="#FFEEA012" StrokeThickness="5" VerticalAlignment="Top" Width="53.933">
+            <Ellipse.Fill>
+                <RadialGradientBrush RadiusX="0.339" Center="0.574,0.576" GradientOrigin="0.574,0.576" RadiusY="0.374">
+                    <GradientStop Color="#FFDF461C"/>
+                    <GradientStop Color="#FFDDE519" Offset="0.892"/>
+                </RadialGradientBrush>
+            </Ellipse.Fill>
+        </Ellipse>
+        <Ellipse HorizontalAlignment="Left" Height="58.696" Margin="237.85,235.533,0,0" Stroke="#FFEEA012" StrokeThickness="5" VerticalAlignment="Top" Width="62.2">
+            <Ellipse.Fill>
+                <RadialGradientBrush RadiusX="0.339" Center="0.516,0.361" GradientOrigin="0.516,0.361" RadiusY="0.374">
+                    <GradientStop Color="#FFDF461C"/>
+                    <GradientStop Color="#FFDDE519" Offset="0.892"/>
+                </RadialGradientBrush>
+            </Ellipse.Fill>
+        </Ellipse>
+        <TextBlock HorizontalAlignment="Center" Height="56" Margin="49.55,491.4,50.55,23" TextWrapping="Wrap" Text="С НОВЫМ ГОДОМ!" Width="343.5" VerticalAlignment="Center" FontSize="32" FontFamily="Gill Sans Ultra Bold" TextAlignment="Center"/>
+
+    </Grid>
+</Window>
